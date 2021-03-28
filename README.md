@@ -1,0 +1,2 @@
+# ExampleResourcepack
+Example 
